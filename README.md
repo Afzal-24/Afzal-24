@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/afzal kapadwala](https://www.linkedin.com/in/afzal-kapadwala-82b0102b0/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzal kapadwala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/afzal-kapadwala-82b0102b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzal kapadwala" height="30" width="40" /></a>
 <a href="https://fb.com/afzal kapadwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afzal kapadwala" height="30" width="40" /></a>
 <a href="https://instagram.com/afzal_24_05_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afzal_24_05_" height="30" width="40" /></a>
 </p>
