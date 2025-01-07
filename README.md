@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kapadwalahajimohammedafzal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DnY27hpwDOr0LB6zFqdpt8DcDSyH0QQx/view?usp=sharing](https://drive.google.com/file/d/1DnY27hpwDOr0LB6zFqdpt8DcDSyH0QQx/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1f0Kb2Tf2p8R1feaqkzgm9cmaBUiPj0rC/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
