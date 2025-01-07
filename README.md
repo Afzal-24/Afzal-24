@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript and ReactJs**
 
-- 👨‍💻 All of my projects are available at <a href="[https://drive.google.com/file/d/1f0Kb2Tf2p8R1feaqkzgm9cmaBUiPj0rC/view?usp=sharing](http://www.linkedin.com/in/afzal-kapadwala-82b0102b0)" target="_blank" rel="noopener noreferrer">
+- 👨‍💻 All of my projects are available <a href="http://www.linkedin.com/in/afzal-kapadwala-82b0102b0" target="_blank" rel="noopener noreferrer">
     CLick Here
 </a>
 
