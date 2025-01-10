@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-24&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-24" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and ReactJs**
+- 🌱 I’m currently learning **JavaScript and React**
 
 - 👨‍💻 All of my projects are available <a href="http://www.linkedin.com/in/afzal-kapadwala-82b0102b0" target="_blank" rel="noopener noreferrer">
     CLick Here
