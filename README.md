@@ -1,7 +1,7 @@
 
 ![Banner](https://github.com/user-attachments/assets/00c17e9f-7c17-46d5-b58f-a183b0c811ee)
 
-<h1 align="center">Hi👋, I'm Afzal Kapadwala</h1>
+<h1 align="center">Hi👋,I'm Afzal Kapadwala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-24&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-24" /> </p>
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **JavaScript and React**
 
 - 👨‍💻 All of my projects are available <a href="http://www.linkedin.com/in/afzal-kapadwala-82b0102b0" target="_blank" rel="noopener noreferrer">
-    CLick Here
+    Click Here
 </a>
 
 - 📫 How to reach me <a href="mailto:kapadwalahajimohammedafzal@gmail.com">Email</a>
