@@ -1,10 +1,10 @@
-![Banner](https://github.com/user-attachments/assets/00c17e9f-7c17-46d5-b58f-a183b0c811ee)
+![Black Minimalist Linkedin Banner](https://github.com/user-attachments/assets/0270a316-d28e-4c7c-b970-1bccec193756)
 
 <h1 align="center">Hi 👋, I'm Afzal Kapadwala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left">![Black Minimalist Linkedin Banner](https://github.com/user-attachments/assets/6efbe747-d035-4156-adf3-c6c8ccf4f871)
- </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-24&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-24" /> </p>
+
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
 
