@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Afzal Kapadwala</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-24&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-24" /> </p>
+<p align="left">![Black Minimalist Linkedin Banner](https://github.com/user-attachments/assets/6efbe747-d035-4156-adf3-c6c8ccf4f871)
+ </p>
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
 
