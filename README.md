@@ -1,7 +1,7 @@
 ![Black Minimalist Linkedin Banner](https://github.com/user-attachments/assets/0270a316-d28e-4c7c-b970-1bccec193756)
 
 <h1 align="center">Hi 👋, I'm Afzal Kapadwala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-24&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-24" /> </p>
 
