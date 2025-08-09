@@ -73,12 +73,12 @@
 
 ###
 
-<img width="70%" align="left" height="100%" src="https://raw.githubusercontent.com/Afzal-24/Afzal-24/output/snake.svg" alt="Snake animation" />
+<img width="70%" align="left"  height="100%" src="https://raw.githubusercontent.com/matinshaikh31/matinshaikh31/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Afzal-24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/matinshaikh31/count.svg?"  />
 </div>
 
 ###
