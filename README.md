@@ -73,7 +73,7 @@
 
 ###
 
-<img width="70%" align="left"  height="100%" src="https://raw.githubusercontent.com/Afzal-24/Afzal-24/output/snake.svg" alt="Snake animation" />
+<img width="70%" align="left" height="100%" src="https://raw.githubusercontent.com/Afzal-24/Afzal-24/output/snake.svg" alt="Snake animation" />
 
 ###
 
