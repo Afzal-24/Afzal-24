@@ -64,3 +64,22 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Afzal-24&theme=dracula" alt="GitHub Streak" />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif"  />
+
+###
+
+<img width="70%" align="left" height="100%" src="https://raw.githubusercontent.com/Afzal-24/Afzal-24/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Afzal-24/count.svg?"  />
+</div>
+
+###
+
