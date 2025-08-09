@@ -10,11 +10,6 @@
 
 - 📫 Reach me **kapadwalahajimohammedafzal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/afzal-kapadwala-82b0102b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzal kapadwala" height="30" width="40" /></a>
-</p>
-
 ---
 ###
 # Languages and Tools 🛠 
@@ -52,6 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="adobe illustrator logo" />
 </div>
 
+---
+###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/afzal-kapadwala-82b0102b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzal kapadwala" height="30" width="40" /></a>
+</p>
 
 ---
 ###
