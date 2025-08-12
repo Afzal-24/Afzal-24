@@ -62,9 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Afzal-24&show_icons=true&theme=dracula&hide_border=false" height="150" alt="Afzal's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afzal-24&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
 </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Afzal-24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Afzal-24&theme=dracula" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Afzal-24&theme=dracula" alt="GitHub Streak" />
   </a>
 </div>
 
